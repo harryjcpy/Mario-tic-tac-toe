@@ -20,7 +20,7 @@ A fun and engaging version of the classic Tic-Tac-Toe game featuring Mario and B
 - **Responsive Design**: Optimized for both desktop and mobile devices.
 
 ## Demo
-You can view a live demo of the project [here](#).
+You can view a live demo of the project [here](https://main--tic-tac-toe-react-cut-zero.netlify.app/).
 
 ## Installation
 
@@ -79,3 +79,4 @@ Contributions are welcome! Feel free to fork this repository, make changes, and 
 
 ### Acknowledgments
 Thanks to [ChatGPT](https://openai.com/chatgpt) for assisting in building this project. Special thanks to Nintendo for the Mario series inspiration.
+Inspired from various YouTube tutorials.
