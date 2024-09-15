@@ -1,5 +1,6 @@
 .container {
     text-align: center;
+    margin-left: 28%;
 }
 
 .title {
@@ -61,3 +62,39 @@
     height: 50px;
     margin-bottom: 10px;
 }
+
+@media screen and (max-width: 480px) {
+    .title {
+      font-size: 40px; /* Adjust font size for smaller screens */
+    }
+  
+    .reset {
+      width: 200px; /* Reduce width for smaller screens */
+      height: 80px;
+      font-size: 20px;
+    }
+  
+    .board {
+      height: 400px; /* Reduce board size */
+      width: 376px;
+    }
+  
+    .boxes {
+      height: 120px; /* Adjust box size */
+      width: 120px;
+    }
+  
+    .boxes img {
+      margin: 30px 30px; /* Adjust margin for box content */
+    }
+  
+    .toggle-music {
+      width: 40px; /* Adjust toggle button size */
+      height: 40px;
+    }
+  
+    .title img {
+      height: 40px; /* Adjust icon size in the title */
+    }
+  }
+  
