@@ -1,7 +1,5 @@
 body {
   background-color: #0f1B21;
-  transform: scale(0.8); /* Adjust the value to zoom out */
-  transform-origin: 0 0; /* Ensures scaling starts from the top-left corner */
 }
 
 .draw-message {
