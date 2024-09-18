@@ -118,7 +118,7 @@
     }
 
     .title {
-      font-size: 28px; /* Adjust font size for smaller screens */
+      font-size: 28px;
       margin-left: 8%;
       margin-bottom: 20px;
     }
@@ -129,35 +129,35 @@
     }
   
     .reset {
-      width: 200px; /* Reduce width for smaller screens */
+      width: 200px;
       height: 80px;
       font-size: 20px;
       margin-left: 2%;
     }
   
     .board {
-      height: 400px; /* Reduce board size */
+      height: 400px; 
       width: 376px;
       margin-bottom: 10px;
     }
   
     .boxes {
-      height: 120px; /* Adjust box size */
+      height: 120px;
       width: 120px;
     }
 
     .box0 {
-      height: 120px; /* Adjust box size */
+      height: 120px; 
       width: 120px;
     }
 
     .box4 {
-      height: 120px; /* Adjust box size */
+      height: 120px; 
       width: 120px;
     }
 
     .box8 {
-      height: 120px; /* Adjust box size */
+      height: 120px; 
       width: 120px;
     }
        
@@ -174,16 +174,16 @@
     }
 
     .boxes img {
-      margin: 30px 30px; /* Adjust margin for box content */
+      margin: 30px 30px; 
     }
   
     .toggle-music {
-      width: 80px; /* Adjust toggle button size */
+      width: 80px; 
       height: 80px;
     }
   
     .title img {
-      height: 40px; /* Adjust icon size in the title */
+      height: 40px; 
     }
   }
   
